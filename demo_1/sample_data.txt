@@ -1,0 +1,6 @@
+Paris is the capital of France.
+Apple is a tech company.
+The Taj Mahal is in India.
+Python is a programming language.
+Mount Everest is the highest mountain.
+
